@@ -37,6 +37,10 @@ int main(){
         cout << "Eyepiece #"<<i+1<<":";
         cin>>eps[i];
     }
+    file_it(fout,objective,eps,LIMIT);
+    file_it(cout,objective,eps,LIMIT);
+    cout<<"Done\n";
+    return 0;
 
 }
 
