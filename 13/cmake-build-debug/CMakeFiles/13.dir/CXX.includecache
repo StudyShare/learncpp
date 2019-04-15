@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sym/Documents/github/learncpp/13/Base.h
+
+/home/sym/Documents/github/learncpp/13/BaseImpl.h
+Base.h
+/home/sym/Documents/github/learncpp/13/Base.h
+
+/home/sym/Documents/github/learncpp/13/main.cpp
+iostream
+-
+BaseImpl.h
+/home/sym/Documents/github/learncpp/13/BaseImpl.h
+

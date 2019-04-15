@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/13.dir/main.cpp.o CMakeFiles/13.dir/Base.cpp.o CMakeFiles/13.dir/BaseImpl.cpp.o  -o 13 
