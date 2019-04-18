@@ -7,6 +7,8 @@
 
 #include <iostream>
 
+static int static_a = 1001;
+
 class Test1 {
 
 private:
@@ -15,6 +17,10 @@ private:
     friend void sayHello1(Test1 test1);
     friend void testFriend(Test1 test1); //友元函数
     friend class Test2; //友元类
+public:
+    int c;
+    const static int static_b = 100001;
+    static void testStatic();
 };
 
 

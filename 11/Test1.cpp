@@ -15,3 +15,9 @@ void sayHello1(Test1 test1) {
     std::cout << ret << std::endl;
 }
 
+void Test1::testStatic() {
+
+//    Test1::static_a = 10001;
+    std::cout<<"I,m from Test1 testStatic "<<std::endl;
+}
+
