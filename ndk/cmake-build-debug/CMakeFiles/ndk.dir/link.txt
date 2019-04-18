@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ndk.dir/main.cpp.o  -o ndk 
