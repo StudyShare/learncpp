@@ -12,21 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bdeea39-cdc1-49da-b7b5-1d91bdac5aeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../11/Android.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/Application.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Android.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Application.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Test1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Test1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Test2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Test2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Test3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/Test3.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../11/jni/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Android.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Application.mk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../11/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../11/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../11/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/jni/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../11/jni/Application.mk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../13/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -41,6 +31,7 @@
     <session id="-1782573198">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -103,16 +94,7 @@
         <entry file="file://$PROJECT_DIR$/make.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="123" selection-start-line="1" selection-start-column="123" selection-end-line="1" selection-end-column="123" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/obj/local/armeabi-v7a/libstdc++.a">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -147,8 +129,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="55" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="213" />
     <option name="width" value="1668" />
     <option name="height" value="1056" />
   </component>
@@ -220,15 +202,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555575032770</updated>
-      <workItem from="1555575034007" duration="3117000" />
+      <workItem from="1555575034007" duration="3835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3117000" />
+    <option name="totallyTimeSpent" value="3835000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="24" width="1668" height="1056" extended-state="0" />
+    <frame x="213" y="0" width="1668" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -237,7 +219,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5688889" />
+      <window_info anchor="bottom" id="Terminal" weight="0.5688889" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +276,7 @@
     <entry file="file://$PROJECT_DIR$/make.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="123" selection-start-line="1" selection-start-column="123" selection-end-line="1" selection-end-column="123" />
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
         </state>
       </provider>
     </entry>

@@ -1,2 +1,3 @@
 APP_ABI := all
 APP_OPTIM:=release
+ NDK_PROJECT_PATH=./
