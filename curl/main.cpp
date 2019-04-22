@@ -4,7 +4,6 @@
 #include <rapidjson/document.h>
 #include <rapidjson/encodings.h>
 
-class Ch;
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -31,7 +30,7 @@ int main() {
      writer.EndArray();
      writer.EndObject();
 
-     char* json  = const_cast<char *>(buffer.GetString());
+     const rapidjson::UTF8<>::Ch * json  = buffer.GetString();
      std::cout<<json<<std::endl;
 
      //解析json
