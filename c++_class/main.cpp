@@ -1,5 +1,6 @@
 #include <iostream>
 #include "TestD.h"
+#include "TestE.h"
 
 struct student{
     int age;
@@ -52,6 +53,9 @@ int main() {
     std::cout<< "the address of test.score is "<<&test.score<<std::endl;
 
     //总结：当如果有几种类型要选择的时候可以使用union,union是会内容覆盖的
+
+    //static 在c++中的用法
+    Android::app_usage();
 
     return 0;
 }
