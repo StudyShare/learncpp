@@ -12,52 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bdeea39-cdc1-49da-b7b5-1d91bdac5aeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test01.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test01.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test02.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test03.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test03.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps_synative_com_jni_TestJNI.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gps_synative_com_jni_TestJNI.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/classfile_constants.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/jawt.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/jdwpTransport.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/jni.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/jni_md.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/jvmti.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/jvmticmlr.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/linux/jawt_md.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/linux/jni_md.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++_class/TestA.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++_class/TestA.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++_class/TestA.h" beforeDir="false" afterPath="$PROJECT_DIR$/../c++_class/TestA.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++_class/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../c++_class/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c_static_extern/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../c_static_extern/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c_static_extern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c_static_extern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/Android.mk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/Application.mk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ndk.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ndk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ndk.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ndk.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make.sh" beforeDir="false" afterPath="$PROJECT_DIR$/make.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/local/armeabi-v7a/liblua.a" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +41,7 @@
         <counts>
           <entry key="a" value="1" />
           <entry key="c" value="6" />
-          <entry key="cpp" value="1" />
+          <entry key="cpp" value="2" />
           <entry key="cstring" value="1" />
           <entry key="h" value="11" />
           <entry key="mk" value="4" />
@@ -95,14 +53,14 @@
         <counts>
           <entry key="Bash" value="2" />
           <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="19" />
+          <entry key="ObjectiveC" value="20" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="c" value="202" />
-          <entry key="cpp" value="252" />
+          <entry key="cpp" value="557" />
           <entry key="h" value="99" />
           <entry key="mk" value="108" />
           <entry key="sh" value="87" />
@@ -113,7 +71,7 @@
         <counts>
           <entry key="Bash" value="87" />
           <entry key="CMakeLists.txt" value="26" />
-          <entry key="ObjectiveC" value="553" />
+          <entry key="ObjectiveC" value="858" />
           <entry key="PLAIN_TEXT" value="108" />
         </counts>
       </usages-collector>
@@ -130,36 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test01.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#37#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/jni.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-              <folding>
-                <element signature="e#661#679#0" expanded="true" />
-                <element signature="e#826#838#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/include/gps_synative_com_jni_TestJNI.c">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="17" column="50" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="165">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -223,7 +156,6 @@
         <option value="$PROJECT_DIR$/gps_synative_com_jni_TestJNI.h" />
         <option value="$PROJECT_DIR$/gps_synative_com_jni_TestJNI.c" />
         <option value="$PROJECT_DIR$/include/jni.h" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/Test01.h" />
         <option value="$PROJECT_DIR$/Test01.c" />
         <option value="$PROJECT_DIR$/Test02.c" />
@@ -234,6 +166,7 @@
         <option value="$PROJECT_DIR$/include/gps_synative_com_jni_TestJNI.h" />
         <option value="$PROJECT_DIR$/Android.mk" />
         <option value="$PROJECT_DIR$/make.sh" />
+        <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
   </component>
@@ -243,11 +176,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="119" />
-    <option name="y" value="314" />
-    <option name="width" value="1767" />
-    <option name="height" value="617" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="192" />
+    <option name="y" value="25" />
+    <option name="width" value="1668" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -321,18 +254,18 @@
       <workItem from="1555575034007" duration="3835000" />
       <workItem from="1556261725207" duration="10635000" />
       <workItem from="1556414886957" duration="12299000" />
-      <workItem from="1556444673455" duration="805000" />
+      <workItem from="1556444673455" duration="3408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27574000" />
+    <option name="totallyTimeSpent" value="30177000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="314" width="1767" height="617" extended-state="1" />
+    <frame x="192" y="25" width="1668" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22942206" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24349442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -344,7 +277,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.21475054" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5516432" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
@@ -393,13 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test01.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -432,6 +358,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#37#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -441,34 +370,6 @@
           <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
           <folding>
             <element signature="e#297#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test01.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#37#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/jni.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="e#661#679#0" expanded="true" />
-            <element signature="e#826#838#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -510,8 +411,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/include/gps_synative_com_jni_TestJNI.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="285">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/jni.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="98" column="16" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+          <folding>
+            <element signature="e#661#679#0" expanded="true" />
+            <element signature="e#826#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test01.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
