@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/ndk.dir/main.cpp.o  -o ndk 
+/usr/bin/cc -g   CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o CMakeFiles/ndk.dir/Test.c.o CMakeFiles/ndk.dir/Test01.c.o CMakeFiles/ndk.dir/Test02.c.o CMakeFiles/ndk.dir/Test03.c.o  -o ndk 

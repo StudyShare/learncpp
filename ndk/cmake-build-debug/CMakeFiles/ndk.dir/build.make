@@ -57,30 +57,90 @@ include CMakeFiles/ndk.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ndk.dir/flags.make
 
-CMakeFiles/ndk.dir/main.cpp.o: CMakeFiles/ndk.dir/flags.make
-CMakeFiles/ndk.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ndk.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ndk.dir/main.cpp.o -c /home/sym/Documents/github/learncpp/ndk/main.cpp
+CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o: CMakeFiles/ndk.dir/flags.make
+CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o: ../gps_synative_com_jni_TestJNI.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o   -c /home/sym/Documents/github/learncpp/ndk/gps_synative_com_jni_TestJNI.c
 
-CMakeFiles/ndk.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ndk.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sym/Documents/github/learncpp/ndk/main.cpp > CMakeFiles/ndk.dir/main.cpp.i
+CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sym/Documents/github/learncpp/ndk/gps_synative_com_jni_TestJNI.c > CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.i
 
-CMakeFiles/ndk.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ndk.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sym/Documents/github/learncpp/ndk/main.cpp -o CMakeFiles/ndk.dir/main.cpp.s
+CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sym/Documents/github/learncpp/ndk/gps_synative_com_jni_TestJNI.c -o CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.s
+
+CMakeFiles/ndk.dir/Test.c.o: CMakeFiles/ndk.dir/flags.make
+CMakeFiles/ndk.dir/Test.c.o: ../Test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ndk.dir/Test.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ndk.dir/Test.c.o   -c /home/sym/Documents/github/learncpp/ndk/Test.c
+
+CMakeFiles/ndk.dir/Test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ndk.dir/Test.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sym/Documents/github/learncpp/ndk/Test.c > CMakeFiles/ndk.dir/Test.c.i
+
+CMakeFiles/ndk.dir/Test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ndk.dir/Test.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sym/Documents/github/learncpp/ndk/Test.c -o CMakeFiles/ndk.dir/Test.c.s
+
+CMakeFiles/ndk.dir/Test01.c.o: CMakeFiles/ndk.dir/flags.make
+CMakeFiles/ndk.dir/Test01.c.o: ../Test01.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ndk.dir/Test01.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ndk.dir/Test01.c.o   -c /home/sym/Documents/github/learncpp/ndk/Test01.c
+
+CMakeFiles/ndk.dir/Test01.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ndk.dir/Test01.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sym/Documents/github/learncpp/ndk/Test01.c > CMakeFiles/ndk.dir/Test01.c.i
+
+CMakeFiles/ndk.dir/Test01.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ndk.dir/Test01.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sym/Documents/github/learncpp/ndk/Test01.c -o CMakeFiles/ndk.dir/Test01.c.s
+
+CMakeFiles/ndk.dir/Test02.c.o: CMakeFiles/ndk.dir/flags.make
+CMakeFiles/ndk.dir/Test02.c.o: ../Test02.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ndk.dir/Test02.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ndk.dir/Test02.c.o   -c /home/sym/Documents/github/learncpp/ndk/Test02.c
+
+CMakeFiles/ndk.dir/Test02.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ndk.dir/Test02.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sym/Documents/github/learncpp/ndk/Test02.c > CMakeFiles/ndk.dir/Test02.c.i
+
+CMakeFiles/ndk.dir/Test02.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ndk.dir/Test02.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sym/Documents/github/learncpp/ndk/Test02.c -o CMakeFiles/ndk.dir/Test02.c.s
+
+CMakeFiles/ndk.dir/Test03.c.o: CMakeFiles/ndk.dir/flags.make
+CMakeFiles/ndk.dir/Test03.c.o: ../Test03.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ndk.dir/Test03.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ndk.dir/Test03.c.o   -c /home/sym/Documents/github/learncpp/ndk/Test03.c
+
+CMakeFiles/ndk.dir/Test03.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ndk.dir/Test03.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/sym/Documents/github/learncpp/ndk/Test03.c > CMakeFiles/ndk.dir/Test03.c.i
+
+CMakeFiles/ndk.dir/Test03.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ndk.dir/Test03.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/sym/Documents/github/learncpp/ndk/Test03.c -o CMakeFiles/ndk.dir/Test03.c.s
 
 # Object files for target ndk
 ndk_OBJECTS = \
-"CMakeFiles/ndk.dir/main.cpp.o"
+"CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o" \
+"CMakeFiles/ndk.dir/Test.c.o" \
+"CMakeFiles/ndk.dir/Test01.c.o" \
+"CMakeFiles/ndk.dir/Test02.c.o" \
+"CMakeFiles/ndk.dir/Test03.c.o"
 
 # External object files for target ndk
 ndk_EXTERNAL_OBJECTS =
 
-ndk: CMakeFiles/ndk.dir/main.cpp.o
+ndk: CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o
+ndk: CMakeFiles/ndk.dir/Test.c.o
+ndk: CMakeFiles/ndk.dir/Test01.c.o
+ndk: CMakeFiles/ndk.dir/Test02.c.o
+ndk: CMakeFiles/ndk.dir/Test03.c.o
 ndk: CMakeFiles/ndk.dir/build.make
 ndk: CMakeFiles/ndk.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ndk"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sym/Documents/github/learncpp/ndk/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable ndk"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ndk.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

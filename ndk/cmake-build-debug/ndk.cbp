@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/sym/Documents/github/learncpp/ndk/&apos;include&apos;"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -67,6 +68,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/sym/Documents/github/learncpp/ndk/&apos;include&apos;"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -84,7 +86,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sym/Documents/github/learncpp/ndk/main.cpp">
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test.h">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test01.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test01.h">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test02.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test03.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/Test03.h">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/gps_synative_com_jni_TestJNI.c">
+			<Option target="ndk"/>
+		</Unit>
+		<Unit filename="/home/sym/Documents/github/learncpp/ndk/gps_synative_com_jni_TestJNI.h">
 			<Option target="ndk"/>
 		</Unit>
 		<Unit filename="/home/sym/Documents/github/learncpp/ndk/CMakeLists.txt">

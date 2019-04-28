@@ -123,32 +123,140 @@ ndk/fast:
 	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/build
 .PHONY : ndk/fast
 
-main.o: main.cpp.o
+Test.o: Test.c.o
 
-.PHONY : main.o
+.PHONY : Test.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/main.cpp.o
-.PHONY : main.cpp.o
+Test.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test.c.o
+.PHONY : Test.c.o
 
-main.i: main.cpp.i
+Test.i: Test.c.i
 
-.PHONY : main.i
+.PHONY : Test.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/main.cpp.i
-.PHONY : main.cpp.i
+Test.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test.c.i
+.PHONY : Test.c.i
 
-main.s: main.cpp.s
+Test.s: Test.c.s
 
-.PHONY : main.s
+.PHONY : Test.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/main.cpp.s
-.PHONY : main.cpp.s
+Test.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test.c.s
+.PHONY : Test.c.s
+
+Test01.o: Test01.c.o
+
+.PHONY : Test01.o
+
+# target to build an object file
+Test01.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test01.c.o
+.PHONY : Test01.c.o
+
+Test01.i: Test01.c.i
+
+.PHONY : Test01.i
+
+# target to preprocess a source file
+Test01.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test01.c.i
+.PHONY : Test01.c.i
+
+Test01.s: Test01.c.s
+
+.PHONY : Test01.s
+
+# target to generate assembly for a file
+Test01.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test01.c.s
+.PHONY : Test01.c.s
+
+Test02.o: Test02.c.o
+
+.PHONY : Test02.o
+
+# target to build an object file
+Test02.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test02.c.o
+.PHONY : Test02.c.o
+
+Test02.i: Test02.c.i
+
+.PHONY : Test02.i
+
+# target to preprocess a source file
+Test02.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test02.c.i
+.PHONY : Test02.c.i
+
+Test02.s: Test02.c.s
+
+.PHONY : Test02.s
+
+# target to generate assembly for a file
+Test02.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test02.c.s
+.PHONY : Test02.c.s
+
+Test03.o: Test03.c.o
+
+.PHONY : Test03.o
+
+# target to build an object file
+Test03.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test03.c.o
+.PHONY : Test03.c.o
+
+Test03.i: Test03.c.i
+
+.PHONY : Test03.i
+
+# target to preprocess a source file
+Test03.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test03.c.i
+.PHONY : Test03.c.i
+
+Test03.s: Test03.c.s
+
+.PHONY : Test03.s
+
+# target to generate assembly for a file
+Test03.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/Test03.c.s
+.PHONY : Test03.c.s
+
+gps_synative_com_jni_TestJNI.o: gps_synative_com_jni_TestJNI.c.o
+
+.PHONY : gps_synative_com_jni_TestJNI.o
+
+# target to build an object file
+gps_synative_com_jni_TestJNI.c.o:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.o
+.PHONY : gps_synative_com_jni_TestJNI.c.o
+
+gps_synative_com_jni_TestJNI.i: gps_synative_com_jni_TestJNI.c.i
+
+.PHONY : gps_synative_com_jni_TestJNI.i
+
+# target to preprocess a source file
+gps_synative_com_jni_TestJNI.c.i:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.i
+.PHONY : gps_synative_com_jni_TestJNI.c.i
+
+gps_synative_com_jni_TestJNI.s: gps_synative_com_jni_TestJNI.c.s
+
+.PHONY : gps_synative_com_jni_TestJNI.s
+
+# target to generate assembly for a file
+gps_synative_com_jni_TestJNI.c.s:
+	$(MAKE) -f CMakeFiles/ndk.dir/build.make CMakeFiles/ndk.dir/gps_synative_com_jni_TestJNI.c.s
+.PHONY : gps_synative_com_jni_TestJNI.c.s
 
 # Help Target
 help:
@@ -159,9 +267,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ndk"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Test.o"
+	@echo "... Test.i"
+	@echo "... Test.s"
+	@echo "... Test01.o"
+	@echo "... Test01.i"
+	@echo "... Test01.s"
+	@echo "... Test02.o"
+	@echo "... Test02.i"
+	@echo "... Test02.s"
+	@echo "... Test03.o"
+	@echo "... Test03.i"
+	@echo "... Test03.s"
+	@echo "... gps_synative_com_jni_TestJNI.o"
+	@echo "... gps_synative_com_jni_TestJNI.i"
+	@echo "... gps_synative_com_jni_TestJNI.s"
 .PHONY : help
 
 

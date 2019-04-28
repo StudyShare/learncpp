@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-/home/sym/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH=. NDK_APPLICATION_MK=Application.mk APP_BUILD_SCRIPT=Android.mk
+export ndk=/home/sym/Android/Sdk/android-ndk-r16b/ndk-build
+$ndk NDK_PROJECT_PATH=./include NDK_APPLICATION_MK=../Application.mk APP_BUILD_SCRIPT=../Android.mk NDK_LOG=1

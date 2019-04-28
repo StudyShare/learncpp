@@ -7,10 +7,16 @@
 
 
 class TestA {
+private:
+    int b;
 
 public:
+    TestA();
+    TestA(int p);
     const static int a=100;
     void fun();
+    TestA operator< (const TestA & testA);
+    int getB();
 };
 
 
