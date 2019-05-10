@@ -1,0 +1,3 @@
+/home/sym/Documents/github/learncpp/dlopen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sym/Documents/github/learncpp/dlopen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sym/Documents/github/learncpp/dlopen/cmake-build-debug/CMakeFiles/dlopen.dir
