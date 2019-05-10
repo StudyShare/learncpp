@@ -4,6 +4,7 @@
 //#include <cstring>
 //#include <cstdlib>
 #include "gps_synative_com_jni_TestJNI.h"
+#include "/home/sym/Documents/github/learncpp/as/add.h"
 
 //JNIEXPORT jstring JNICALL Java_gps_synative_com_jni_TestJNI_testJniAdd
 //        (JNIEnv *env, jobject _obj, jint a, jint b) {
@@ -16,9 +17,11 @@
 
 JNIEXPORT jint JNICALL Java_gps_synative_com_jni_TestJNI_add
         (JNIEnv *env, jobject _obj, jint a, jint b) {
-    jint ret = a + b;
+    jint ret = add(a,b);
     return ret;
 }
+
+
 
 //jstring charTojstring(JNIEnv* env, const char* pat) {
 //    //定义java String类 strClass

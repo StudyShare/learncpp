@@ -1,9 +1,9 @@
-LOCAL_PATH := $(call my-dir)
+LOCAL_PATH := $(call my-dir)/include
 
 include $(CLEAR_VARS)
 
 LOCAL_MODULE    := JNI
-LOCAL_SRC_FILES := gps_synative_com_jni_TestJNI.c /home/sym/Documents/github/learncpp/as/add.c
+LOCAL_SRC_FILES := gps_synative_com_jni_TestJNI.c
 #LOCAL_LDLIBS    := -ld -lm
 LOCAL_CFLAGS += -std=c11
 

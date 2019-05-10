@@ -21,6 +21,8 @@ JNIEXPORT jint JNICALL Java_gps_synative_com_jni_TestJNI_add
 jstring charTojstring(JNIEnv* env, const char* pat);
 char* jstringToChar(JNIEnv* env, jstring jstr);
 
+int add(int a,int b);
+
 #ifdef __cplusplus
 }
 #endif

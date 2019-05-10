@@ -16,8 +16,12 @@
 
 JNIEXPORT jint JNICALL Java_gps_synative_com_jni_TestJNI_add
         (JNIEnv *env, jobject _obj, jint a, jint b) {
-    jint ret = a + b;
+    jint ret = add(a,b);
     return ret;
+}
+
+int add(int a, int b) {
+    return a + b;
 }
 
 //jstring charTojstring(JNIEnv* env, const char* pat) {
