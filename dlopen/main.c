@@ -5,7 +5,7 @@
 
 int main() {
     printf("Hello, World!\n");
-    void (*func)();
+    int (*padd)(int, int);
     /*while(1){
         sleep(1);
 
@@ -23,18 +23,23 @@ int main() {
         }
     }*/
 
-    void *handler = dlopen("./Test.so", RTLD_LAZY);
-    handler = dlopen("./Test.so", RTLD_LAZY);
-    if (handler) {
-        func = dlsym(handler, "_printf");
+//    void *handler = dlopen("./Test.so", RTLD_LAZY);
+    while (1) {
 
-        if(func){
-            (*func)();
-        }else{
-            printf(" dlsym - %s\n",dlerror());
+        sleep(10);
+        void *handler = dlopen("/data/local/tmp/libJNI.so", RTLD_NOW);
+        if (handler) {
+            padd = dlsym(handler, "add");
+
+            if (padd) {
+                int ret = (*padd)(3, 5);
+                printf("ret = %d\n", ret);
+            } else {
+                printf(" dlsym - %s\n", dlerror());
+            }
+        } else {
+            printf("dlopen - %s\n", dlerror());
         }
-    }else{
-        printf("dlopen - %s\n",dlerror());
     }
 
     return 0;
