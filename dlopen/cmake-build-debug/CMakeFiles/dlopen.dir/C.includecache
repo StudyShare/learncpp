@@ -6,7 +6,21 @@
 
 #IncludeRegexTransform: 
 
+/home/sym/Documents/github/learncpp/dlopen/Test.c
+Test.h
+/home/sym/Documents/github/learncpp/dlopen/Test.h
+stdio.h
+-
+
+/home/sym/Documents/github/learncpp/dlopen/Test.h
+
 /home/sym/Documents/github/learncpp/dlopen/main.c
 stdio.h
+-
+dlfcn.h
+-
+time.h
+-
+unistd.h
 -
 
